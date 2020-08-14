@@ -1,0 +1,4 @@
+﻿  InsertionSortAssemblyAndC.c
+c:\users\erol\desktop\assemblyproject\insertionsortassemblyandc.c(55): warning C4028: '1' biçimsel parametresi bildirimden farklı
+c:\users\erol\desktop\assemblyproject\insertionsortassemblyandc.c(142): warning C4013: 'system' tanımsız; int döndüren extern olduğu varsayılıyor
+  InsertionSortAssemblyandC.vcxproj -> C:\Users\erol\Source\Repos\InsertionSortAssemblyandC\Debug\InsertionSortAssemblyandC.exe
