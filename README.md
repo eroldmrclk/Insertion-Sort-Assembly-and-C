@@ -1,7 +1,7 @@
 # Insertion-Sort-Assembly-and-C
 ## Purpose of the Project: Insertion Sort Speed Test
 
-## Insertion Sort Algorithm
+##### Insertion Sort Algorithm
 *Insertion sort algorithm is very simple to code, but it is a relatively slow sorting algorithm compared to sequences such as merge sort and quick sort. This easy-to-implement algorithm is used when used in smaller arrays rather than large arrays, and especially when the incoming dataset is very close to the already sorted or sorted state. The algorithm checks the data in order from the second element of the data set to be sorted, and if the previous record is larger than the current record (or depending on the sorting type if it is small), these two elements are moved and backward checks are continued. These operations are repeated until the array element is placed in the correct place.*
 
 ![Graph2](https://github.com/eroldmrclk/Insertion-Sort-Assembly-and-C/blob/master/images/graph-2.png)
